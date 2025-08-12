@@ -1,4 +1,4 @@
-# About DSP Problems
+# About this repository
 
 This repository is reserved for the study of the content present in the course [Signal processing problems](https://www.udemy.com/course/signal-processing/) by Mike Cohen. 
 
